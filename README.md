@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working a movie website<br>🌍 I love traveling to places and exploring.<br>🧑🏿‍🤝‍🧑🏻 I love to collaborate
+🔭 I am currently working on a movie website<br>🌍 I love traveling to places and exploring.<br>🧑🏿‍🤝‍🧑🏻 I love to collaborate
 
 
 ## 🌐 Socials:
