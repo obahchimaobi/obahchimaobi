@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I am currently working on a movie website<br>🌍 I love traveling to places and exploring.<br>🧑🏿‍🤝‍🧑🏻 I love to collaborate
+👨‍💻 Passionate software developer focused on creating innovative and scalable solutions.
+💡 Dedicated to continuous learning and collaborating on impactful projects.
+🚀 Driven to turn ideas into reality through efficient and elegant code.
 
 
 ## 🌐 Socials:
