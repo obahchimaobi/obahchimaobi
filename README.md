@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate software developer focused on creating innovative and scalable solutions.<br>
+👨‍💻 Passionate website developer focused on creating innovative and scalable solutions.<br>
 💡 Dedicated to continuous learning and collaborating on impactful projects.<br>
 🚀 Driven to turn ideas into reality through efficient and elegant code.
 
